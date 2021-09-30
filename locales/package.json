@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "acorn": "^6.0.4",
-    "acorn-jsx": "^5.0.0",
+    "acorn-jsx": "^5.3.2",
     "camelcase": "^5.0.0",
     "deep-keys": "^0.5.0",
     "ellipsize": "^0.1.0",
