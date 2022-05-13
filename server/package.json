@@ -98,7 +98,7 @@
     "nodeify": "^1.0.1",
     "nodemailer": "^5.0.0",
     "nodemailer-openpgp": "^1.2.0",
-    "npmlog": "^4.1.2",
+    "npmlog": "^5.0.0",
     "openpgp": "^4.7.2",
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
