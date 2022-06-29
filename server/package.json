@@ -100,7 +100,7 @@
     "nodemailer-openpgp": "^1.2.0",
     "npmlog": "^4.1.2",
     "openpgp": "^4.7.2",
-    "passport": "^0.4.1",
+    "passport": "^0.6.0",
     "passport-local": "^1.0.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.5",
