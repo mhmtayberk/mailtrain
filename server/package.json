@@ -85,7 +85,7 @@
     "libmime": "^4.2.1",
     "mailparser": "^2.7.7",
     "memory-cache": "^0.2.0",
-    "mjml": "^4.5.1",
+    "mjml": "^4.15.0",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.27",
     "morgan": "^1.9.1",
