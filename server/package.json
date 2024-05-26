@@ -97,7 +97,7 @@
     "node-object-hash": "^1.4.1",
     "nodeify": "^1.0.1",
     "nodemailer": "^5.0.0",
-    "nodemailer-openpgp": "^1.2.0",
+    "nodemailer-openpgp": "^2.2.1",
     "npmlog": "^4.1.2",
     "openpgp": "^4.7.2",
     "passport": "^0.4.1",
