@@ -20,7 +20,7 @@
   "license": "GPL-3.0",
   "homepage": "https://mailtrain.org/",
   "dependencies": {
-    "@coreui/coreui": "^2.1.16",
+    "@coreui/coreui": "^3.0.0",
     "@fortawesome/fontawesome-free": "^5.15.3",
     "axios": "^0.19.2",
     "bootstrap": "^4.6.0",
